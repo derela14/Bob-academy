@@ -1,0 +1,153 @@
+h1
+{
+font-family: 'Montserrat', sans-serif;
+font-weight: 600!important;
+}
+.connexion
+{
+border-color: #FFDD55;
+border-radius: 40px;
+border-style: solid;
+border-width: 2px;
+}
+.connexion:hover
+{
+background-color: #002D62;
+color: white;
+border-color: #FFDD55;
+border-radius: 40px;
+border-style: solid;
+border-width: 3px;
+}
+.compte
+{
+background-color: #FFDD55;
+border-radius: 40px;
+margin-left: 7px;
+}
+.compte:hover
+{
+border-radius: 40px;
+background-color: #002D62;
+color: white;
+}
+.jumbotron-hero
+{
+/* Choisis la hauteur ici */
+height: 80vh;
+/* Tu lui donnes une image de background */
+background-image: url("couple.jpg");
+/* Centre l'image et la met bien sur tous les écrans */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+padding-top: 5%;
+}
+.boutonjaune
+{
+background-color: #FFDD55;
+border-radius: 40px;
+margin-bottom: 20px;
+font-family: 'Sulphur Point', sans-serif
+}
+.boutonjaune:hover
+{
+border-radius: 40px;
+margin-bottom: 20px;
+background-color: #002D62;
+color: white;
+}
+.blanc
+{
+margin-top: 8%;
+}
+.police
+{
+margin-top: 10%;
+font-family: 'Montserrat', sans-serif;
+font-weight: 600;
+text-align: center;
+font-size: 17px;
+}
+.marge
+{
+padding-left:20%;
+padding-right:20%;
+padding-bottom: 5%;
+}
+.marge2
+{
+padding-left:10%;
+padding-right:10%;
+padding-bottom: 5%;
+padding-top: 5%;
+}
+.marge3
+{
+margin-left: 5%;
+margin-right: 5%;
+margin-bottom: 5%;
+}
+.boutonvert
+{
+background-color: #C9E265;
+color: white;
+border-radius: 40px;
+}
+.boutonvert:hover
+{
+background-color: #002D62;
+color: white;
+}
+i
+{
+color: #002D62;
+}
+*
+{
+font-family: 'Sulphur Point', sans-serif
+}
+.gras
+{
+font-weight: 600!important;
+}
+.police2
+{
+font-family: 'Montserrat', sans-serif;
+font-size: 15px;
+}
+.police3
+{
+font-family: 'Montserrat', sans-serif;
+}
+.temoin
+{
+margin-top:5%;
+margin-bottom: 5%;
+}
+.temoin1
+{
+clip-path:ellipse(50% 50%);
+}
+.map
+{
+border-radius: 40px;
+margin: 10%;
+}
+.part
+{
+margin: 5%;
+}
+h2
+{
+font-family: 'Montserrat', sans-serif;
+font-weight: 600!important;
+font-size: 40px;
+color: #002D62;
+margin-bottom: 0;
+}
+.marge4
+{
+margin-bottom: 2%;
+}
